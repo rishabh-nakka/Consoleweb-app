@@ -1,0 +1,21 @@
+console.log("Bye");
+var first_name="Rishabh ";
+console.log(first_name);
+var last_name="Nakka";
+console.log(last_name)
+var full_name=first_name.concat(last_name);
+console.log(full_name);
+var length_of_name=full_name.length;
+console.log(length_of_name);
+var number_1=8;
+console.log(number_1);
+var number_2=4;
+console.log( number_2);
+var addition=number_1+number_2;
+console.log(addition);
+var subtract=number_1-number_2;
+console.log(subtract);
+var multiplication=number_1*number_2;
+console.log(multiplication);
+var division=number_1/number_2;
+console.log(division);
